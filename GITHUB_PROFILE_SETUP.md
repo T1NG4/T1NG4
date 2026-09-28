@@ -1,5 +1,19 @@
 # Ajustes manuais no perfil GitHub
 
+## Repositório `TGS-Community` público
+
+O monorepo **já estava público** na sua conta antes do portfólio; o trabalho do portfólio só **linkou** o projeto e preencheu a descrição no GitHub — **não alteramos a visibilidade** para public.
+
+Se isso não era intencional (código + `TGS Site/midias/` com logos e artes):
+
+1. [github.com/T1NG4/TGS-Community/settings](https://github.com/T1NG4/TGS-Community/settings) → **Danger Zone** → **Change visibility** → **Private**
+2. Ou no terminal (com permissão na conta):  
+   `gh repo edit T1NG4/TGS-Community --visibility private`
+
+O site [t1ng4.github.io](https://t1ng4.github.io) usa cópias das logos em `public/tgs/` (espelhadas de `TGS Site/midias/TGS/`), então o portfólio continua funcionando mesmo se o monorepo ficar privado. Atualize essas cópias manualmente quando mudar a marca no monorepo.
+
+---
+
 O `gh` autenticado nesta máquina não tem escopo `user` para editar bio nem API pública estável para fixar repositórios. Faça uma vez no site:
 
 ## Bio e link do site
