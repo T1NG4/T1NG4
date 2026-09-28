@@ -14,32 +14,18 @@ Aplicativos Windows · Extensões Chrome · Ferramentas para comunidades
 
 ---
 
-## 🎯 SPRAY INTERCEPTION
-
-> Utilitário de compensação de recoil para Windows 10/11 — HUD in-game, biblioteca de armas e atualização automática.
-
-[![versão](https://img.shields.io/github/v/release/T1NG4/TGS-SPRAY-interception-releases?include_prereleases&label=vers%C3%A3o&style=flat-square&color=7c5cff)](https://github.com/T1NG4/TGS-SPRAY-interception-releases/releases/latest)
-[![downloads](https://img.shields.io/github/downloads/T1NG4/TGS-SPRAY-interception-releases/total?label=downloads&style=flat-square&color=21d4fd)](https://github.com/T1NG4/TGS-SPRAY-interception-releases/releases)
-[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/T1NG4/TGS-SPRAY-interception-releases)
-
-<img src="https://raw.githubusercontent.com/T1NG4/TGS-SPRAY-interception-releases/main/assets/in-game.jpg" width="100%" alt="SPRAY INTERCEPTION rodando em jogo" />
-
-Compensação configurável por arma e zoom, perfis com primária/secundária, HUD overlay arrastável, Rapid Fire e auto-update pelo GitHub Releases. Não lê memória do jogo nem injeta código — só move o mouse via driver de input.
-
-**[⬇️ Baixar a versão mais recente](https://github.com/T1NG4/TGS-SPRAY-interception-releases/releases/latest)** · **[📖 Detalhes no portfólio](https://t1ng4.github.io/projetos/spray-interception)**
-
----
-
 ## 🇧🇷 Projetos
 
 | Projeto | O que é | Stack |
 |---------|---------|-------|
-| **[SPRAY INTERCEPTION](https://github.com/T1NG4/TGS-SPRAY-interception-releases)** | Compensação de recoil para Windows com HUD in-game e auto-update | TypeScript · Electron |
 | **[Ripper Search](https://chromewebstore.google.com/detail/ripper-search/hnofnogigohohmhnbjokglneeeignolj)** | Extensão Chrome publicada que busca no Ripper.Store direto de Booth e Gumroad | TypeScript · Manifest V3 |
 | **[Zgraphic Launcher](https://github.com/T1NG4/TGS-Zgraphic-releases)** | Launcher FiveM em executável único: instala, valida mods e entra no servidor | C# · .NET |
+| **[SPRAY INTERCEPTION](https://github.com/T1NG4/TGS-SPRAY-interception-releases)** | Ferramenta de treinamento de recoil para Windows (perfis, biblioteca de armas, HUD) | TypeScript · Electron |
 | **[TGS Community](https://github.com/T1NG4/TGS-Community)** | Monorepo do ecossistema TGS: launcher hub, pack manager, mod manager e site | JavaScript · Node.js |
 | **[TGS Store](https://github.com/T1NG4/TGS-Site)** | Landing page e catálogo filtrável sem bundler | HTML · CSS · JS |
 | **[Dicionário em grafo](https://github.com/T1NG4/C0-4)** | Dicionário de língua fictícia com grafo e coordenadas 3D (INATEL) | C++17 |
+
+Detalhes, screenshots e links: **[t1ng4.github.io](https://t1ng4.github.io)**
 
 ### Stack
 
@@ -67,9 +53,9 @@ I build software that solves practical problems: Windows apps, published Chrome 
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| **[SPRAY INTERCEPTION](https://github.com/T1NG4/TGS-SPRAY-interception-releases)** | Recoil compensation for Windows with in-game HUD and auto-update | TypeScript · Electron |
 | **[Ripper Search](https://chromewebstore.google.com/detail/ripper-search/hnofnogigohohmhnbjokglneeeignolj)** | Published Chrome extension searching Ripper.Store from Booth and Gumroad | TypeScript · Manifest V3 |
 | **[Zgraphic Launcher](https://github.com/T1NG4/TGS-Zgraphic-releases)** | Single-executable FiveM launcher: installs, validates mods, joins the server | C# · .NET |
+| **[SPRAY INTERCEPTION](https://github.com/T1NG4/TGS-SPRAY-interception-releases)** | Recoil training tool for Windows (profiles, weapon library, HUD) | TypeScript · Electron |
 | **[TGS Community](https://github.com/T1NG4/TGS-Community)** | TGS ecosystem monorepo: launcher hub, pack manager, mod manager, site | JavaScript · Node.js |
 | **[TGS Store](https://github.com/T1NG4/TGS-Site)** | Landing page and filterable catalog, no bundler | HTML · CSS · JS |
 | **[Graph dictionary](https://github.com/T1NG4/C0-4)** | Fictional-language dictionary with graph and 3D coordinates | C++17 |
