@@ -7,35 +7,39 @@ O `gh` autenticado nesta máquina não tem escopo `user` para editar bio nem API
 1. Abra [github.com/settings/profile](https://github.com/settings/profile)
 2. **Bio** (sugestão):
    ```
-   Extensões Chrome, ferramentas desktop e open source.
+   Apps Windows, extensões Chrome e ferramentas para comunidades.
    ```
 3. **Website**: `https://t1ng4.github.io`
 
 ## Fixar 6 repositórios
 
-No seu perfil [github.com/T1NG4](https://github.com/T1NG4), clique em **Customize your pins** e selecione:
+No seu perfil [github.com/T1NG4](https://github.com/T1NG4), clique em **Customize your pins** e selecione, nesta ordem:
 
-1. [ripper-search](https://github.com/T1NG4/ripper-search)
-2. [TGS-Zgraphic-Public](https://github.com/T1NG4/TGS-Zgraphic-Public)
-3. [TGS-Community](https://github.com/T1NG4/TGS-Community)
-4. [C0-4](https://github.com/T1NG4/C0-4)
-5. [S01-L1](https://github.com/T1NG4/S01-L1)
-6. [T1NG4.github.io](https://github.com/T1NG4/T1NG4.github.io)
+1. [TGS-SPRAY-interception-releases](https://github.com/T1NG4/TGS-SPRAY-interception-releases) — SPRAY INTERCEPTION
+2. [ripper-search](https://github.com/T1NG4/ripper-search) — extensão na Chrome Web Store
+3. [TGS-Zgraphic-releases](https://github.com/T1NG4/TGS-Zgraphic-releases) — Zgraphic Launcher
+4. [TGS-Community](https://github.com/T1NG4/TGS-Community) — monorepo do ecossistema
+5. [TGS-Site](https://github.com/T1NG4/TGS-Site) — TGS Store
+6. [T1NG4.github.io](https://github.com/T1NG4/T1NG4.github.io) — portfólio
 
-## Topics (opcional)
+Os repos `S01-L1`, `C0-4` e `TGS-Zgraphic-Public` saíram dos pins: os dois primeiros são acadêmicos e o último está vazio (o conteúdo real está em `TGS-Zgraphic-releases`).
 
-Em cada repositório → **About** → adicione topics, por exemplo:
+## Descrições faltando
 
-| Repositório | Topics sugeridos |
-|-------------|------------------|
-| ripper-search | `chrome-extension`, `typescript` |
-| TGS-Zgraphic-Public | `desktop`, `launcher` |
-| TGS-Community | `community`, `documentation` |
+Estes repos públicos aparecem sem descrição no GitHub. Vale preencher o campo **About**:
+
+| Repositório | Sugestão |
+|-------------|----------|
+| TGS-Zgraphic-Public | Arquivar ou apontar para `TGS-Zgraphic-releases` |
+| C0-4 | Dicionário de língua fictícia em C++ com grafo e coordenadas 3D |
+| TGS-Site | Landing page e catálogo da TGS Store em HTML/CSS/JS |
+| TGS-Community | Monorepo do ecossistema TGS para FiveM |
 
 ## Personalizar conteúdo
 
-- E-mail e redes: edite `profile-readme/README.md` (comentário `TODO`) e `t1ng4.github.io/src/components/HomeSections.astro` (`mailto:`).
-- Novos projetos: adicione em `t1ng4.github.io/src/data/projects.ts` e uma linha na tabela do README de perfil.
+- Contato: `t1ng4.github.io/src/components/HomeSections.astro` (GitHub e Discord já configurados)
+- Novos projetos: adicione em `t1ng4.github.io/src/data/projects.ts` — a home, o grid e a página de detalhe em ambos os idiomas são geradas a partir desse arquivo
+- Para destacar um projeto na home, marque `featured: true`
 
 ## Escopo `gh` (opcional)
 
