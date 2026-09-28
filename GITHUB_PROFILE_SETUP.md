@@ -15,11 +15,11 @@ O `gh` autenticado nesta máquina não tem escopo `user` para editar bio nem API
 
 No seu perfil [github.com/T1NG4](https://github.com/T1NG4), clique em **Customize your pins** e selecione, nesta ordem:
 
-1. [TGS-SPRAY-interception-releases](https://github.com/T1NG4/TGS-SPRAY-interception-releases) — SPRAY INTERCEPTION
-2. [ripper-search](https://github.com/T1NG4/ripper-search) — extensão na Chrome Web Store
-3. [TGS-Zgraphic-releases](https://github.com/T1NG4/TGS-Zgraphic-releases) — Zgraphic Launcher
-4. [TGS-Community](https://github.com/T1NG4/TGS-Community) — monorepo do ecossistema
-5. [TGS-Site](https://github.com/T1NG4/TGS-Site) — TGS Store
+1. [TGS-Community](https://github.com/T1NG4/TGS-Community) — ecossistema principal (site: [tgs.gamer.gd](https://tgs.gamer.gd/))
+2. [TGS-Site](https://github.com/T1NG4/TGS-Site) — código do site oficial
+3. [ripper-search](https://github.com/T1NG4/ripper-search) — extensão na Chrome Web Store
+4. [TGS-Zgraphic-releases](https://github.com/T1NG4/TGS-Zgraphic-releases) — Zgraphic Launcher
+5. [TGS-SPRAY-interception-releases](https://github.com/T1NG4/TGS-SPRAY-interception-releases) — treino de recoil
 6. [T1NG4.github.io](https://github.com/T1NG4/T1NG4.github.io) — portfólio
 
 Os repos `S01-L1`, `C0-4` e `TGS-Zgraphic-Public` saíram dos pins: os dois primeiros são acadêmicos e o último está vazio (o conteúdo real está em `TGS-Zgraphic-releases`).

@@ -18,11 +18,12 @@ Aplicativos Windows · Extensões Chrome · Ferramentas para comunidades
 
 | Projeto | O que é | Stack |
 |---------|---------|-------|
+| **[TGS Community](https://tgs.gamer.gd/)** | Ecossistema FiveM — site oficial, launcher, pack/mod manager e catálogo | JavaScript · Node.js |
 | **[Ripper Search](https://chromewebstore.google.com/detail/ripper-search/hnofnogigohohmhnbjokglneeeignolj)** | Extensão Chrome publicada que busca no Ripper.Store direto de Booth e Gumroad | TypeScript · Manifest V3 |
 | **[Zgraphic Launcher](https://github.com/T1NG4/TGS-Zgraphic-releases)** | Launcher FiveM em executável único: instala, valida mods e entra no servidor | C# · .NET |
 | **[SPRAY INTERCEPTION](https://github.com/T1NG4/TGS-SPRAY-interception-releases)** | Ferramenta de treinamento de recoil para Windows (perfis, biblioteca de armas, HUD) | TypeScript · Electron |
-| **[TGS Community](https://github.com/T1NG4/TGS-Community)** | Monorepo do ecossistema TGS: launcher hub, pack manager, mod manager e site | JavaScript · Node.js |
-| **[TGS Store](https://github.com/T1NG4/TGS-Site)** | Landing page e catálogo filtrável sem bundler | HTML · CSS · JS |
+| **[TGS Store (código)](https://github.com/T1NG4/TGS-Site)** | Fonte do site [tgs.gamer.gd](https://tgs.gamer.gd/) — landing e catálogo | HTML · CSS · JS |
+| **[Monorepo TGS](https://github.com/T1NG4/TGS-Community)** | Código do ecossistema (launcher hub, managers, docs) | JavaScript · Node.js |
 | **[Dicionário em grafo](https://github.com/T1NG4/C0-4)** | Dicionário de língua fictícia com grafo e coordenadas 3D (INATEL) | C++17 |
 
 Detalhes, screenshots e links: **[t1ng4.github.io](https://t1ng4.github.io)**
@@ -53,11 +54,12 @@ I build software that solves practical problems: Windows apps, published Chrome 
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
+| **[TGS Community](https://tgs.gamer.gd/)** | FiveM ecosystem — official site, launcher, pack/mod manager, catalog | JavaScript · Node.js |
 | **[Ripper Search](https://chromewebstore.google.com/detail/ripper-search/hnofnogigohohmhnbjokglneeeignolj)** | Published Chrome extension searching Ripper.Store from Booth and Gumroad | TypeScript · Manifest V3 |
 | **[Zgraphic Launcher](https://github.com/T1NG4/TGS-Zgraphic-releases)** | Single-executable FiveM launcher: installs, validates mods, joins the server | C# · .NET |
 | **[SPRAY INTERCEPTION](https://github.com/T1NG4/TGS-SPRAY-interception-releases)** | Recoil training tool for Windows (profiles, weapon library, HUD) | TypeScript · Electron |
-| **[TGS Community](https://github.com/T1NG4/TGS-Community)** | TGS ecosystem monorepo: launcher hub, pack manager, mod manager, site | JavaScript · Node.js |
-| **[TGS Store](https://github.com/T1NG4/TGS-Site)** | Landing page and filterable catalog, no bundler | HTML · CSS · JS |
+| **[TGS Store (source)](https://github.com/T1NG4/TGS-Site)** | Source for [tgs.gamer.gd](https://tgs.gamer.gd/) — landing and catalog | HTML · CSS · JS |
+| **[TGS monorepo](https://github.com/T1NG4/TGS-Community)** | Ecosystem code (launcher hub, managers, docs) | JavaScript · Node.js |
 | **[Graph dictionary](https://github.com/T1NG4/C0-4)** | Fictional-language dictionary with graph and 3D coordinates | C++17 |
 
 Full portfolio: **[t1ng4.github.io/en](https://t1ng4.github.io/en)**
